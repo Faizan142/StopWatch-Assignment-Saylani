@@ -1,0 +1,21 @@
+
+body{
+    text-align: center !important;
+}
+
+h2 {
+    display: inline-block;
+    width: 100px;
+    background-color: skyblue;
+    color:black;
+}
+
+button {
+    width: 100px;
+    height: 40px;
+    font-size: 20px !important;
+    color:black;
+    border-style: solid;
+    background-color: beige;
+    
+}
